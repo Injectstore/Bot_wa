@@ -1,0 +1,11 @@
+{
+  "name": "wa-bot-sales",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "sqlite3": "^5.1.6",
+    "venom-bot": "^4.3.0",
+    "node-fetch": "^2.6.7"
+  }
+}
